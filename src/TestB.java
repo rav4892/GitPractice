@@ -5,6 +5,7 @@ public class TestB {
 		
 		System.out.println("Bhagwan Singh");
 		System.out.println("Laxman Singh");
+		System.out.println("Sujan Singh");
 
 	}
 
